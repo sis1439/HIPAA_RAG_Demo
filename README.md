@@ -14,7 +14,7 @@
 
 - `hipaa_rag.py`：主程序，包含全部类和主函数
 - `requirements.txt`：依赖包
-- `data/`（可选）：用于测试的 FHIR JSON 数据（你可自行添加）
+- `data/`：用于测试的 FHIR JSON 数据，均为 [Synthea](https://github.com/synthetichealth/synthea) 生成的合成数据，不含真实患者信息
 
 ## 🚀 快速使用
 
